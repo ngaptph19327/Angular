@@ -115,7 +115,7 @@ function updateProduct() {
 
 }
 updateProduct()
-
+//Bài 5: xóa toàn bộ sản phẩm trong mảng
 function removeAllProduct() {
     const arraylength = this.data.length
     // console.log(arraylength)
